@@ -1,0 +1,11 @@
+{
+  "name": "set",
+  "version": "1.0.0",
+  "description": "### Set",
+  "main": "index.js",
+  "scripts": {
+    "test": "test --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}
