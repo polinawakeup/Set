@@ -1,1 +1,1 @@
-const a = () => 5 / 2;
+import Team from './set';
